@@ -1,1 +1,25 @@
+import time
+import fresh_tomatoes
+import media
+
+
+
+
+Vacation_Red_Band =media.Movie("Vacation Red Band","Vacation Red Band",
+                       "http://i.ytimg.com/vi/DrPQaQ87dfs/maxresdefault.jpg",
+                       "https://www.youtube.com/watch?v=IYgYGRW_ffI")
+
+
+Grandma = media.Movie("Grandma",
+                     "Grandman",
+                     "http://i.ytimg.com/vi/mr4_vyFQTsE/hqdefault.jpg",
+                     "https://www.youtube.com/watch?v=XspFo3jiVR8")
+
+
+
+movies = [Vacation_Red_Band, Grandma]
+fresh_tomatoes.open_movies_page(movies)
+
+
+
 
