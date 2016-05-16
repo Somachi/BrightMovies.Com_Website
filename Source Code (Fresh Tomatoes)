@@ -3,11 +3,23 @@ import os
 import re
 
 
+
 # Styles and scripting for the page
 main_page_head = '''
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+    <font size="5"color="red"><p align="center"><b>
+     Welcome to BrightMovies.Com<font size="6"color="black">
+    <br />
+      Please select a movie below to watch
+    </font></b></p>
+    </font>
+
+
+
+
     <meta charset="utf-8">
     <title>Fresh Tomatoes!</title>
     <!-- Bootstrap 3 -->
@@ -105,7 +117,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">BrightMovies.Com </a>
           </div>
         </div>
       </div>
