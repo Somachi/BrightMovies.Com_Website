@@ -60,7 +60,7 @@ def open_movies_page()
 
 #License
 
-1. The ‘Fresh Tomatoes’ file authored and maintained by Udacity. 
+1. The ‘fresh_tomatoes.py’ file was originally authored and maintained by Udacity, but I modified it to suit the look of my    desired website. 
 
 
 2. 
