@@ -50,8 +50,12 @@ webbrowser.open()
 def create_movie_tiles_content()
 def open_movies_page()
 
+#To Run this codes
+1. Save all three files with the extention '.py' which makes it possible to run on a python IDL
+2. Make sure all three files are saved in the same folder on your computer
+3. Open up the file Entertainment_center.py and run the code, please make sure you are connected to the internet, and that      you have a browser on your computer
 
-License:
+#License
 
 1. The ‘Fresh Tomatoes’ file authored and maintained by Udacity. 
 
