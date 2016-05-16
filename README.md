@@ -16,12 +16,15 @@ This repository contains the BrightMovies.Com website source codes and how to ge
 
 #File details:
 
-Media.py- where we defined our classes and functions
+media.py- where we defined our classes and functions
 
-Entertainment_center.py- where we imported the functions and classes in Media.py file to use in our website
+entertainment_center.py- where we imported the functions and classes in Media.py file to use in our website
 
-Fresh_tomatoes.py - this file is reponsible for displaying our website on a web browser 
+fresh_tomatoes.py - this file is reponsible for displaying our website on a web browser 
 
+    Note:
+    Please make sure the file names are correct as stated here (all letters should be in lower cases)
+    
 #Main Features 
 -	Open a webpage 
 -	Display a list of Video images 
