@@ -6,41 +6,30 @@
 ![screen shot 2016-05-16 at 6 34 33 am](https://cloud.githubusercontent.com/assets/13493736/15289576/5ea22ede-1b30-11e6-966f-57676e2e5548.png)
 
 
-# BrightMovies.Com website
+BrightMovies.Com website
+
+#Introduction
 
 
 
+This repository contains the BrightMovies.Com website source codes and how to get the website up and running on your web browser, see below for outlined step by step guide.  
 
-
-This repository contains the BrightMovies.Com website source codes and how to get the website up and running on yout  web browser, see below for outlined step by step guide.  
-
-File details:
+#File details:
 
 Media.py- where we defined our classes and functions
 
 Entertainment_center.py- where we imported the functions and classes in Media.py file to use in our website
 
-Outline of readme contents
+Fresh_tomatoes.py - this file is reponsible for displaying our website on a web browser 
 
-Introduction (What is the code about)
-This code contains three files of which are responsible for giving the user a site which contains movies.
-
-Main Features (Vertical list with dots)
+#Main Features 
 -	Open a webpage 
--	Display a list of Video images of adverts
--	Display the name of the each video adverts below its image
--	Play the video adverts when the user clicks on the imgae
+-	Display a list of Video images 
+-	Display the name of the each video below its image
+-	Play the video when the user clicks on the imgae
 
 
-Files Description:
-
-Media.py – This is where functions that make this code perform the way it do are defined
-
-Fresh_Tomatoes.py – This file is responsible for play the youtube links in this site
-
-Entertainment_center – This file is where the informations that you see on the site is beein       entered and the functions in Media,py file is being used to render the site
-
-Libraries used:
+#Libraries used:
 
 import webbrowser
 import webbrowser
@@ -51,20 +40,16 @@ import fresh_tomatoes
 import media
 
 
-
-Classes:
+#Classes 
 class Movie():
 
-
-Functions:
+#Functions
 def show_trailer()
 def __init__()
 webbrowser.open()
 def create_movie_tiles_content()
 def open_movies_page()
 
-Outputs:
-Screenshot of the windows screen
 
 License:
 
