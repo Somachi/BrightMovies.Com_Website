@@ -8,13 +8,13 @@
 
 BrightMovies.Com website
 
-#Introduction
+# Introduction
 
 
 
 This repository contains the BrightMovies.Com website source codes and how to get the website up and running on your web browser, see below for outlined step by step guide.  
 
-#File details:
+# File details:
 
 media.py- where we defined our classes and functions
 
@@ -25,14 +25,14 @@ fresh_tomatoes.py - this file is reponsible for displaying our website on a web 
     Note:
     Please make sure the file names are correct as stated here (all letters should be in lower cases)
     
-#Main Features 
+# Main Features 
 -	Open a webpage 
 -	Display a list of Video images 
 -	Display the name of the each video below its image
 -	Play the video when the user clicks on the imgae
 
 
-#Libraries used:
+# Libraries used:
 
 import webbrowser
 import webbrowser
@@ -43,10 +43,10 @@ import fresh_tomatoes
 import media
 
 
-#Classes 
+# Classes 
 class Movie():
 
-#Functions
+# Functions
 def show_trailer()
 def __init__()
 webbrowser.open()
