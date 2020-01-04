@@ -58,7 +58,7 @@ def open_movies_page()
 2. Make sure all three files are saved in the same folder on your computer
 3. Open up the file Entertainment_center.py and run the code, please make sure you are connected to the internet, and that      you have a browser on your computer
 
-#License
+# License
 
 1. The ‘fresh_tomatoes.py’ file was originally authored and maintained by Udacity, but I modified it to suit the look of my    desired website. 
 
